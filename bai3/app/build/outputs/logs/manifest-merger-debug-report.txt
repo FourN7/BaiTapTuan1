@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\584aba0e5935ddd0cdb524dd7eda6488\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\398e1164ca8cffd814e4ac4c6d0e36c1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\225ad6a9ce2e2e6e0757c638338e9741\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\c3e080c72960f39c5abf06dadf7bdab8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\a0d771d3d925c681dcd772f0d780648e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\35fb7b77dae24cb0acf302ab6fd5a540\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\8dcd8f15128ace331a82621d10633338\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\378262d67d9e73e44cb73b6df0a49314\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\7a5f3872f20c6bc8a5a5e7d51f347933\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\00d8115619934c36265617715357fe42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\4838e158a2b6319e74e8e8b6346c9eb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\854ea6bfbcf04a5b9c3c638510ab25bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\872b352727be045c2c2c1367cdd11b67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\dc5ed9976ef990918a8839ea60170790\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\5f53ee814612f12bc8ce85c3cbe6bc46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\f2e7922fff71dc63094747df2ddd9e60\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\1c9e2934dcf8d3420c3fc7ea0135124b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\2387c7cb81646f78ea02249906ede0f1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\e1bda506cf64a3d75e86b3457e0d06e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\5a1375963e6d059e612d6761cce69d96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\d9df817e483fff1e5065583e986cf5c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\ad8a6ab885680c4b97833f76cd8a7876\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\8cb623cd1ddbfc6293927cdc2b5b5550\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\2a0a7a2257be2321d16f3d79a6da6fab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\7d7622a0e31cb5eb6080c71a695a0766\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\44c3d424c314990bfb9868739522a47a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\52682dd0ea10fc93864da776fb34e538\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\398e1164ca8cffd814e4ac4c6d0e36c1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\398e1164ca8cffd814e4ac4c6d0e36c1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\f2e7922fff71dc63094747df2ddd9e60\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\f2e7922fff71dc63094747df2ddd9e60\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\1c9e2934dcf8d3420c3fc7ea0135124b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\1c9e2934dcf8d3420c3fc7ea0135124b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\f2e7922fff71dc63094747df2ddd9e60\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.giaiphuongtrinhbac1.MainActivity
+ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\584aba0e5935ddd0cdb524dd7eda6488\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\584aba0e5935ddd0cdb524dd7eda6488\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\398e1164ca8cffd814e4ac4c6d0e36c1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\398e1164ca8cffd814e4ac4c6d0e36c1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\225ad6a9ce2e2e6e0757c638338e9741\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\225ad6a9ce2e2e6e0757c638338e9741\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\c3e080c72960f39c5abf06dadf7bdab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\c3e080c72960f39c5abf06dadf7bdab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\a0d771d3d925c681dcd772f0d780648e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\a0d771d3d925c681dcd772f0d780648e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\35fb7b77dae24cb0acf302ab6fd5a540\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\35fb7b77dae24cb0acf302ab6fd5a540\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\8dcd8f15128ace331a82621d10633338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\8dcd8f15128ace331a82621d10633338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\378262d67d9e73e44cb73b6df0a49314\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\378262d67d9e73e44cb73b6df0a49314\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\7a5f3872f20c6bc8a5a5e7d51f347933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\7a5f3872f20c6bc8a5a5e7d51f347933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\00d8115619934c36265617715357fe42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\00d8115619934c36265617715357fe42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\4838e158a2b6319e74e8e8b6346c9eb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\4838e158a2b6319e74e8e8b6346c9eb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\854ea6bfbcf04a5b9c3c638510ab25bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\854ea6bfbcf04a5b9c3c638510ab25bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\872b352727be045c2c2c1367cdd11b67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\872b352727be045c2c2c1367cdd11b67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\dc5ed9976ef990918a8839ea60170790\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\dc5ed9976ef990918a8839ea60170790\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\5f53ee814612f12bc8ce85c3cbe6bc46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\5f53ee814612f12bc8ce85c3cbe6bc46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\f2e7922fff71dc63094747df2ddd9e60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\f2e7922fff71dc63094747df2ddd9e60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\1c9e2934dcf8d3420c3fc7ea0135124b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\1c9e2934dcf8d3420c3fc7ea0135124b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\2387c7cb81646f78ea02249906ede0f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\2387c7cb81646f78ea02249906ede0f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\e1bda506cf64a3d75e86b3457e0d06e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\e1bda506cf64a3d75e86b3457e0d06e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\5a1375963e6d059e612d6761cce69d96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\5a1375963e6d059e612d6761cce69d96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\d9df817e483fff1e5065583e986cf5c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\d9df817e483fff1e5065583e986cf5c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\ad8a6ab885680c4b97833f76cd8a7876\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\ad8a6ab885680c4b97833f76cd8a7876\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\8cb623cd1ddbfc6293927cdc2b5b5550\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\8cb623cd1ddbfc6293927cdc2b5b5550\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\2a0a7a2257be2321d16f3d79a6da6fab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\2a0a7a2257be2321d16f3d79a6da6fab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\7d7622a0e31cb5eb6080c71a695a0766\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\7d7622a0e31cb5eb6080c71a695a0766\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\44c3d424c314990bfb9868739522a47a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\44c3d424c314990bfb9868739522a47a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\52682dd0ea10fc93864da776fb34e538\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\nguye\.gradle\caches\transforms-2\files-2.1\52682dd0ea10fc93864da776fb34e538\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\android new-20190830T070342Z-001\android new\Tuan1\bai3\app\src\main\AndroidManifest.xml
